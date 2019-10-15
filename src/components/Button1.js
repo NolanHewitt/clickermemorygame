@@ -1,13 +1,14 @@
 import React from "react";
 
 export default function Button1({
-  onClick
+  onClick,
+  children
 }) {
   return (
     <button
       onClick={onClick}
+      children={children}
     >
-      Hello1
       {/* {<img style={{
          flex: 1,
          width: 200,
