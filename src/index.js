@@ -47,10 +47,10 @@ function App() {
         }
       }} >{<img style={{
         flex: 1,
-        width: 225,
-        height: 183,
+        width: 200,
+        height: 200,
         resizeMode: 'contain'
-        }} alt="uranus" src="https://solarsystem.nasa.gov/system/feature_items/images/89_uranus_carousel_1.jpg"></img>}</Button1>,
+        }} alt="uranus" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Uranus2-transparent.png"></img>}</Button1>,
 
 //---------------------------------------------------------------------------------------------
 
@@ -76,10 +76,10 @@ function App() {
         }
       }} >{<img style={{
         flex: 1,
-        width: 183,
-        height: 183,
+        width: 200,
+        height: 200,
         resizeMode: 'contain'
-        }} alt="Earth" src="https://www.universetoday.com/wp-content/uploads/2010/05/Earth-Western-Hemisphere.jpg"></img>}</Button1>,
+        }} alt="Earth" src="http://pngimg.com/uploads/earth/earth_PNG39.png"></img>}</Button1>,
 
 //---------------------------------------------------------------------------------------------       
 
@@ -105,10 +105,10 @@ function App() {
         }
       }} >{<img style={{
         flex: 1,
-        width: 213,
-        height: 183,
+        width: 200,
+        height: 200,
         resizeMode: 'contain'
-        }} alt="venus" src="https://cdn.mos.cms.futurecdn.net/kaPwBjHiUKax8syodHNPmF-320-80.jpg"></img>}</Button1>,
+        }} alt="venus" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/3D_Venus.png"></img>}</Button1>,
 
 //---------------------------------------------------------------------------------------------
 
@@ -134,10 +134,10 @@ function App() {
         }
       }} >{<img style={{
         flex: 1,
-        width: 183,
-        height: 183,
+        width: 200,
+        height: 200,
         resizeMode: 'contain'
-        }} alt="mercury" src="https://cdn.mos.cms.futurecdn.net/MTEiJvP99DScN3vkAsE9LA-320-80.jpg"></img>}</Button1>,
+        }} alt="mercury" src="https://i1.wp.com/freepngimages.com/wp-content/uploads/2016/05/planet-mercury-transparent-background.png?fit=680%2C680"></img>}</Button1>,
 
 //---------------------------------------------------------------------------------------------        
 
@@ -163,10 +163,10 @@ function App() {
         }
       }} >{<img style={{
         flex: 1,
-        width: 183,
-        height: 183,
+        width: 173,
+        height: 200,
         resizeMode: 'contain'
-        }} alt="ceres" src="http://cdn.sci-news.com/images/2015/12/image_3503_1-Ceres-Bright-Spots.jpg"></img>}</Button1>,
+        }} alt="ceres" src="https://pngimage.net/wp-content/uploads/2018/05/ceres-png-3.png"></img>}</Button1>,
 
 //---------------------------------------------------------------------------------------------
 
@@ -191,10 +191,10 @@ function App() {
       }
     }} >{<img style={{
       flex: 1,
-      width: 183,
-      height: 183,
+      width: 200,
+      height: 200,
       resizeMode: 'contain'
-      }} alt="sun" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg/628px-The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg"></img>}</Button1>,
+      }} alt="sun" src="http://pluspng.com/img-png/sun-png-bright-sun-2249.png"></img>}</Button1>,
 
 //---------------------------------------------------------------------------------------------
 
@@ -220,10 +220,10 @@ function App() {
         }
       }} >{<img style={{
         flex: 1,
-        width: 263,
-        height: 183,
+        width: 200,
+        height: 200,
         resizeMode: 'contain'
-        }} alt="neptune" src="https://solarsystem.nasa.gov/system/feature_items/images/82_carousel_neptune_1.jpg"></img>}</Button1>,
+        }} alt="neptune" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Neptune_cutout.png/1034px-Neptune_cutout.png"></img>}</Button1>,
 
 //---------------------------------------------------------------------------------------------
 
@@ -251,10 +251,10 @@ function App() {
 
 {<img style={{
   flex: 1,
-  width: 183,
-  height: 183,
+  width: 200,
+  height: 200,
   resizeMode: 'contain'
-  }} alt="pluto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pluto_in_True_Color_-_High-Res.jpg/600px-Pluto_in_True_Color_-_High-Res.jpg"></img>}
+  }} alt="pluto" src="https://cdn.pixabay.com/photo/2017/04/04/14/26/pluto-2201446_640.png"></img>}
 
       </Button1>,
 
@@ -282,10 +282,10 @@ onClick={() => {
   }
 }} >{<img style={{
   flex: 1,
-  width: 183,
-  height: 183,
+  width: 200,
+  height: 200,
   resizeMode: 'contain'
-  }} alt="jupiter" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Jupiter%2C_image_taken_by_NASA%27s_Hubble_Space_Telescope%2C_June_2019_-_Edited.jpg"></img>}</Button1>,
+  }} alt="jupiter" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Jupiter_%28transparent%29.png"></img>}</Button1>,
 
   //---------------------------------------------------------------------------------------------
 
@@ -311,10 +311,10 @@ onClick={() => {
         }
       }} >{<img style={{
         flex: 1,
-        width: 235,
-        height: 183,
+        width: 200,
+        height: 200,
         resizeMode: 'contain'
-        }} alt="Eris" src="https://solarsystem.nasa.gov/system/resources/list_images/2390_eris_th.jpg"></img>}</Button1>,
+        }} alt="Eris" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Eris-transparent.png"></img>}</Button1>,
 
 //----------------------------------------------------------------------------------------------------
 
@@ -340,10 +340,10 @@ onClick={() => {
         }
       }} >{<img style={{
         flex: 1,
-        width: 183,
-        height: 183,
+        width: 200,
+        height: 200,
         resizeMode: 'contain'
-        }} alt="Mars" src="https://marsmobile.jpl.nasa.gov/images/mars-globe-valles-marineris-enhanced-br2.jpg"></img>}</Button1>,
+        }} alt="Mars" src="http://pngimg.com/uploads/mars_planet/mars_planet_PNG15.png"></img>}</Button1>,
 
 //----------------------------------------------------------------------------------------------------
 
@@ -369,10 +369,10 @@ onClick={() => {
         }
       }} >{<img style={{
         flex: 1,
-        width: 183,
-        height: 183,
+        width: 225,
+        height: 220,
         resizeMode: 'contain'
-        }} alt="saturn" src="https://space-facts.com/wp-content/uploads/saturn.png"></img>}</Button1>,
+        }} alt="saturn" src="https://www.stickpng.com/assets/images/580b585b2edbce24c47b270c.png"></img>}</Button1>,
     
   ];
 
@@ -385,6 +385,10 @@ onClick={() => {
 <div id="instructions" style={{ fontSize: 50, textAlign: "center" }}>{"Click on the objects in our solar system in the correct order."}</div>
 
 <div id="instructions2" style={{ fontSize: 30, textAlign: "center" }}>{"You get 1 point for each correct answer, guess wrong and you lose!"}</div>
+
+<div id="bg">
+  <img src="https://wallpaperaccess.com/full/39608.jpg" alt=""/>
+</div>
 
       {buttons}
 

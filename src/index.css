@@ -3,10 +3,12 @@ body {
     color: white;
 }
 #button {
-    background: black;
-    border: black;
-    color: white;
-    font-size: 20px;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
 }
 #exit {
     background: black;
@@ -15,3 +17,21 @@ body {
     margin-left: 94.6%;
     font-size: 20px;
 }
+#bg {
+    position: fixed; 
+    top: -50%; 
+    left: -50%; 
+    width: 200%; 
+    height: 200%;
+    z-index: -1;
+  }
+  #bg img {
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    right: 0; 
+    bottom: 0; 
+    margin: auto; 
+    min-width: 50%;
+    min-height: 50%;
+  }
