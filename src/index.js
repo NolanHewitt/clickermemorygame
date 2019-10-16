@@ -29,7 +29,7 @@ function App() {
       onClick={() => {
         if (clicked9 === false && clicked8 === true && lost === false && score <= 10) {
           score++;
-          document.getElementById("scoretable").innerHTML = score;
+          document.getElementById("scoretable").innerHTML = "Score: (" + score + ")";
           document.getElementById("lose").innerHTML = "You lose, your score was " + score + ".";
           clicked9 = true;
         }
@@ -58,7 +58,7 @@ function App() {
       onClick={() => {
         if (clicked4 === false && clicked3 === true && lost === false && score <= 10) {
           score++;
-          document.getElementById("scoretable").innerHTML = score;
+          document.getElementById("scoretable").innerHTML = "Score: (" + score + ")";
           document.getElementById("lose").innerHTML = "You lose, your score was " + score + ".";
           clicked4 = true;
         }
@@ -87,7 +87,7 @@ function App() {
       onClick={() => {
         if (clicked3 === false && clicked2 === true && lost === false && score <= 10) {
           score++;
-          document.getElementById("scoretable").innerHTML = score;
+          document.getElementById("scoretable").innerHTML = "Score: (" + score + ")";
           document.getElementById("lose").innerHTML = "You lose, your score was " + score + ".";
           clicked3 = true;
         }
@@ -116,7 +116,7 @@ function App() {
       onClick={() => {
         if (clicked2 === false && clicked1 === true && lost === false && score <= 10) {
           score++;
-          document.getElementById("scoretable").innerHTML = score;
+          document.getElementById("scoretable").innerHTML = "Score: (" + score + ")";
           document.getElementById("lose").innerHTML = "You lose, your score was " + score + ".";
           clicked2 = true;
         }
@@ -145,7 +145,7 @@ function App() {
       onClick={() => {
         if (clicked6 === false && clicked5 === true && lost === false && score <= 10) {
           score++;
-          document.getElementById("scoretable").innerHTML = score;
+          document.getElementById("scoretable").innerHTML = "Score: (" + score + ")";
           document.getElementById("lose").innerHTML = "You lose, your score was " + score + ".";
           clicked6 = true;
         }
@@ -173,7 +173,7 @@ function App() {
     <Button1 onClick={() => {
       if (clicked1 === false && lost === false && score <= 10) {
         score++;
-        document.getElementById("scoretable").innerHTML = score;
+        document.getElementById("scoretable").innerHTML = "Score: (" + score + ")";
         document.getElementById("lose").innerHTML = "You lose, your score was " + score + ".";
         clicked1 = true;
       }
@@ -202,7 +202,7 @@ function App() {
       onClick={() => {
         if (clicked10 === false && clicked9 === true && lost === false && score <= 10) {
           score++;
-          document.getElementById("scoretable").innerHTML = score;
+          document.getElementById("scoretable").innerHTML = "Score: (" + score + ")";
           document.getElementById("lose").innerHTML = "You lose, your score was " + score + ".";
           clicked10 = true;
         }
@@ -231,7 +231,7 @@ function App() {
       onClick={() => {
         if (clicked11 === false && clicked10 === true && lost === false && score <= 10) {
           score++;
-          document.getElementById("scoretable").innerHTML = score;
+          document.getElementById("scoretable").innerHTML = "Score: (" + score + ")";
           document.getElementById("lose").innerHTML = "You lose, your score was " + score + ".";
           clicked11 = true;
         }
@@ -264,7 +264,7 @@ function App() {
 onClick={() => {
   if (clicked7 === false && clicked6 === true && lost === false && score <= 10) {
     score++;
-    document.getElementById("scoretable").innerHTML = score;
+    document.getElementById("scoretable").innerHTML = "Score: (" + score + ")";
     document.getElementById("lose").innerHTML = "You lose, your score was " + score + ".";
     clicked7 = true;
   }
@@ -293,7 +293,7 @@ onClick={() => {
       onClick={() => {
         if (clicked12 === false && clicked11 === true && lost === false && score <= 10) {
           score++;
-          document.getElementById("scoretable").innerHTML = score;
+          document.getElementById("scoretable").innerHTML = "Score: (" + score + ")";
           document.getElementById("lose").innerHTML = "You lose, your score was " + score + ".";
           clicked12 = true;
         }
@@ -322,7 +322,7 @@ onClick={() => {
       onClick={() => {
         if (clicked5 === false && clicked4 === true && lost === false && score <= 10) {
           score++;
-          document.getElementById("scoretable").innerHTML = score;
+          document.getElementById("scoretable").innerHTML = "Score: (" + score + ")";
           document.getElementById("lose").innerHTML = "You lose, your score was " + score + ".";
           clicked5 = true;
         }
@@ -351,7 +351,7 @@ onClick={() => {
       onClick={() => {
         if (clicked8 === false && clicked7 === true && lost === false && score <= 10) {
           score++;
-          document.getElementById("scoretable").innerHTML = score;
+          document.getElementById("scoretable").innerHTML = "Score: (" + score + ")";
           document.getElementById("lose").innerHTML = "You lose, your score was " + score + ".";
           clicked8 = true;
         }
