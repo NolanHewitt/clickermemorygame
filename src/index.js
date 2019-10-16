@@ -405,9 +405,9 @@ onClick={() => {
 
 
 
-      <div id="scoretable" style={{ fontSize: 75 }}>{"Score: (" + score + ")"}</div>
-      <div id="lose" style={{ fontSize: 75, display: "none" }}>{"You lose, your score was " + score + "."}</div>
-      <div id="win" style={{ fontSize: 75, display: "none" }}>{"You win!"}</div>
+      <div id="scoretable" style={{ fontSize: 75, textAlign: "center" }}>{"Score: (" + score + ")"}</div>
+      <div id="lose" style={{ fontSize: 75, display: "none", textAlign: "center" }}>{"You lose, your score was " + score + "."}</div>
+      <div id="win" style={{ fontSize: 75, display: "none", textAlign: "center" }}>{"You win!"}</div>
     </>
   );
 
