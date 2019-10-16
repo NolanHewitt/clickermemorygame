@@ -8,6 +8,7 @@ export default function Button1({
     <button
       onClick={onClick}
       children={children}
+      id={"button"}
     >
       {/* {<img style={{
          flex: 1,

@@ -2,7 +2,16 @@ body {
     background: black;
     color: white;
 }
-button {
+#button {
     background: black;
     border: black;
+    color: white;
+    font-size: 20px;
+}
+#exit {
+    background: black;
+    color: white;
+    border: 2px solid white;
+    margin-left: 94.6%;
+    font-size: 20px;
 }

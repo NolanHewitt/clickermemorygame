@@ -6,6 +6,7 @@ export default function Button3({
   return (
     <button
       onClick={onClick}
+      id={"exit"}
     >
       Restart
       {/* {<img style={{
