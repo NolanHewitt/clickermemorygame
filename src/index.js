@@ -387,7 +387,7 @@ onClick={() => {
 <div id="instructions2" style={{ fontSize: 30, textAlign: "center" }}>{"You get 1 point for each correct answer, guess wrong and you lose!"}</div>
 
 <div id="bg">
-  <img src="../public/images/background" alt=""/>
+  <img src="https://wallpaperplay.com/walls/full/8/c/2/12870.jpg" alt=""/>
 </div>
 
       {buttons}
